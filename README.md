@@ -192,17 +192,13 @@ Create test files and try different scenarios:
 
 This implementation includes all required features:
 
-- ✅ Flask-based microservice
-- ✅ Resume parsing (PDF, DOCX, TXT)
-- ✅ Job description analysis
-- ✅ Multi-category scoring with weights
-- ✅ Semantic matching (bonus feature)
-- ✅ Web interface (bonus feature)
-- ✅ Local execution (no external APIs)
-- ✅ Structured JSON output
-- ✅ Clean, modular code
-- ✅ Complete documentation
-
-## License
-
-This project is created for educational and competition purposes.
+- Flask-based microservice
+- Resume parsing (PDF, DOCX, TXT)
+- Job description analysis
+- Multi-category scoring with weights
+- Semantic matching (bonus feature)
+- Web interface (bonus feature)
+- Local execution (no external APIs)
+- Structured JSON output
+- Clean, modular code
+- Complete documentation
